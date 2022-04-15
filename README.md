@@ -1,0 +1,1 @@
+[Depo Launcher](http://depolauncher.cf), fotoğraflarınızı saklayabileceğiniz bir web sitesidir. Ayrıca android uygulamamızı [buradan](http://github.com/Depo-Launcher/Depo-Launcher/raw/main/Depo%20Launcher.apk) indirebilirsiniz.
